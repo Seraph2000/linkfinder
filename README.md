@@ -41,3 +41,5 @@ Scrapy spider to crawl all links on a website
     
 - CAPTCHAS
     - if the captcha isn't the latest one, it may be possible to plug in a library such as python-anticaptcha: https://pypi.org/project/python-anticaptcha/
+    
+![Froggy Weirdness](https://i.imgur.com/kXt1K5G.gif)
