@@ -14,6 +14,7 @@ Scrapy spider to crawl all links on a website
 `virtualenv --python=<path to python> <name of virtual environment>`
 
 #### Enter virtual environment, and install Scrapy inside it, together with any necessary dependencies
+`source <environment name>/bin/activate`
 `pip install scrapy`
 
 ## Running Instructions
