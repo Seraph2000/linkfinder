@@ -18,7 +18,7 @@ Scrapy spider to crawl all links on a website
 
 ## Running Instructions
 
-### Enter 
+#### cd into the root directory of the Scrapy project *linkfinder*, then run the following command
 
 `scrapy run links -o <file-name>.<format>`
 
